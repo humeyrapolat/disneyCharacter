@@ -10,6 +10,7 @@ This is my second flutter project. In this project, in the first page you can se
 
 Mvvm Architecture                                                                                                                                                                   
 Dio
+Providers
 
 # Images
 
