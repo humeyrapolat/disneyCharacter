@@ -1,6 +1,6 @@
 # disney_app
 
-A new Flutter project.
+Flutter disney character project which can show characters card and details and also add character to the favorite list.
 
 ## Getting Started
 
