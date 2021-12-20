@@ -4,13 +4,4 @@ Flutter disney character project which can show characters card and details and 
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This is my second flutter project. In this project, in the first page you can see disney characters name and images in the card. The card is clickable so if you click this card you directly go to the detail page which contains tv shows and game videos of the character in addition to name and image. Right side of the appbar you can see heart button this is favorite button and provides to add character into the favorite list. I took used the pop-up after click the favorite button to avoid false operation.The are two options avaiable which are cancel or ok. If you click cancel,the pop-up will be gone. Otherwise,depends on the conditions your character will add to the list or remove from the list and then pop-up will be gone.App bar of the fisrt page there is a another heart button.This button will take you away the favories list page. You can also manage favorites operation here.
