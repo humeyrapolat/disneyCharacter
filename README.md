@@ -1,4 +1,4 @@
-# Dsiney App
+# Disney App
 
 Flutter disney character project which can show characters card and details and also add character to the favorite list.
 
